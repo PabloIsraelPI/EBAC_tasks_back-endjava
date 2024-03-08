@@ -1,2 +1,2 @@
-# EBAC_tasks_back-endjava
+# EBAC tasks
 Repository for EBAC Java Backend course tasks.
